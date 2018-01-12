@@ -1,0 +1,5 @@
+/Users/HaniOsman/Projects/FinalTwo/FinalTwo/bin/Debug/FinalTwo.exe
+/Users/HaniOsman/Projects/FinalTwo/FinalTwo/bin/Debug/FinalTwo.pdb
+/Users/HaniOsman/Projects/FinalTwo/FinalTwo/obj/x86/Debug/FinalTwo.csproj.CoreCompileInputs.cache
+/Users/HaniOsman/Projects/FinalTwo/FinalTwo/obj/x86/Debug/FinalTwo.exe
+/Users/HaniOsman/Projects/FinalTwo/FinalTwo/obj/x86/Debug/FinalTwo.pdb
